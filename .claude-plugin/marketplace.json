@@ -1,0 +1,17 @@
+{
+  "name": "exercito-de-clones",
+  "owner": {
+    "name": "Mateus Ferreira"
+  },
+  "metadata": {
+    "description": "Exército de Clones: as maiores mentes trabalhando com você dentro do Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "exercito-de-clones",
+      "source": "./",
+      "description": "2 skills: clonar (monta o clone de raciocínio de uma referência pública, com fontes) e conselho (vários clones trabalhando juntos no mesmo projeto).",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "exercito-de-clones",
+  "version": "1.0.0",
+  "description": "Clona o raciocínio de qualquer referência pública a partir do que ela publicou e coloca vários clones trabalhando juntos nos seus projetos, dentro do Claude Code.",
+  "author": {
+    "name": "Mateus Ferreira",
+    "url": "https://www.instagram.com/mateus.curta.ia/"
+  },
+  "homepage": "https://github.com/mateusffsc/exercito-de-clones",
+  "repository": "https://github.com/mateusffsc/exercito-de-clones",
+  "license": "MIT",
+  "keywords": ["clone", "persona", "agentes", "subagentes", "claude-code", "conselho"]
+}
